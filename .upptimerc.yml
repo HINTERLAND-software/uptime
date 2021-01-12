@@ -8,20 +8,10 @@ assignees:
 sites:
   - name: hansekai-apartments
     url: http://hansekai-apartments.netlify.app
-  - name: five-minutes
-    url: https://five-minutes.app
-  - name: contentful-gatsby-boilerplate
-    url: http://contentful-gatsby-boilerplate.netlify.app
   - name: wakenitzmauer-luebeck
     url: https://wakenitzmauer-luebeck.de
-  - name: hinterland-software
-    url: https://hinterland.software
-  - name: cv-gen
-    url: https://cv.johannroehl.de
   - name: carlaemrich
     url: https://carlaemrich.de
-  - name: linkedin-portfolio
-    url: https://johannroehl.de
   - name: agenturgoeschen
     url: https://agenturgoeschen.com
   - name: strassburg-passage
@@ -34,13 +24,23 @@ sites:
     url: https://heidpartner.de
   - name: vh-gruppe
     url: https://vh-gruppe.de
+  - name: five-minutes
+    url: https://five-minutes.app
+  - name: hinterland-software
+    url: https://hinterland.software
+  - name: linkedin-portfolio
+    url: https://johannroehl.de
+  - name: cv-gen
+    url: https://cv.johannroehl.de
+  - name: contentful-gatsby-boilerplate
+    url: http://contentful-gatsby-boilerplate.netlify.app
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://hinterland.software/images/HINTERLAND-software-bw.png
   name: Uptime monitor
   introTitle: '**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.'
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -49,5 +49,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: HINTERLAND software
+      href: https://hinterland.software/
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
