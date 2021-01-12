@@ -42,8 +42,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://hinterland.software/images/HINTERLAND-software-bw.png
   name: Uptime monitor
-  introTitle: '**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.'
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: '**Uptime monitor**'
+  introMessage: Periodically checking pages created and run by [HINTERLAND software](https://hinterland.software/).
   navbar:
     - title: Status
       href: /
