@@ -22,19 +22,19 @@
     "url": "https://wakenitzmauer-luebeck.de",
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 469,
-    "timeWeek": 448,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 508,
+    "timeDay": 579,
+    "timeWeek": 478,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2021-01-28": 0
+      "2021-01-28": 24
     }
   },
   {
