@@ -60,9 +60,9 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 501,
     "timeMonth": 648,
     "timeYear": 708,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-14": 0
+    }
   },
   {
     "name": "strassburg-passage",
