@@ -60,19 +60,19 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 359,
-    "timeWeek": 501,
-    "timeMonth": 648,
-    "timeYear": 708,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
+    "time": 694,
+    "timeDay": 281,
+    "timeWeek": 464,
+    "timeMonth": 634,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2021-02-14": 0
+      "2021-02-14": 31
     }
   },
   {
