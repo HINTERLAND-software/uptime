@@ -4,9 +4,9 @@
     "url": "http://hansekai-apartments.netlify.app",
     "icon": "https://favicons.githubusercontent.com/hansekai-apartments.netlify.app",
     "slug": "hansekai-apartments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 227,
     "timeMonth": 497,
     "timeYear": 506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-18": 0
+    }
   },
   {
     "name": "wakenitzmauer-luebeck",
