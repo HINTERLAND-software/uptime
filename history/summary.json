@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 492,
     "timeDay": 1219,
     "timeWeek": 474,
@@ -44,10 +44,10 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 656,
@@ -55,7 +55,9 @@
     "timeWeek": 506,
     "timeMonth": 632,
     "timeYear": 656,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-18": 2
+    }
   },
   {
     "name": "agenturgoeschen",
@@ -136,9 +138,9 @@
     "url": "https://heidpartner.de",
     "icon": "https://favicons.githubusercontent.com/heidpartner.de",
     "slug": "heidpartner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,7 +149,9 @@
     "timeWeek": 414,
     "timeMonth": 622,
     "timeYear": 726,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-18": 0
+    }
   },
   {
     "name": "vh-gruppe",
