@@ -44,19 +44,19 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 656,
-    "timeDay": 429,
-    "timeWeek": 506,
-    "timeMonth": 632,
-    "timeYear": 656,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 643,
+    "timeDay": 282,
+    "timeWeek": 460,
+    "timeMonth": 617,
+    "timeYear": 643,
     "dailyMinutesDown": {
-      "2021-02-18": 2
+      "2021-02-18": 5
     }
   },
   {
@@ -138,19 +138,19 @@
     "url": "https://heidpartner.de",
     "icon": "https://favicons.githubusercontent.com/heidpartner.de",
     "slug": "heidpartner",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 442,
-    "timeWeek": 414,
-    "timeMonth": 622,
-    "timeYear": 726,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 717,
+    "timeDay": 403,
+    "timeWeek": 407,
+    "timeMonth": 614,
+    "timeYear": 717,
     "dailyMinutesDown": {
-      "2021-02-18": 0
+      "2021-02-18": 4
     }
   },
   {
