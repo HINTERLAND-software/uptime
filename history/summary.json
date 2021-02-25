@@ -24,10 +24,10 @@
     "url": "https://wakenitzmauer-luebeck.de",
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 493,
@@ -36,6 +36,7 @@
     "timeMonth": 489,
     "timeYear": 493,
     "dailyMinutesDown": {
+      "2021-02-25": 2,
       "2021-01-28": 24
     }
   },
@@ -158,10 +159,10 @@
     "url": "https://vh-gruppe.de",
     "icon": "https://favicons.githubusercontent.com/vh-gruppe.de",
     "slug": "vh-gruppe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 651,
@@ -170,6 +171,7 @@
     "timeMonth": 598,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2021-02-25": 1,
       "2021-01-26": 23
     }
   },
