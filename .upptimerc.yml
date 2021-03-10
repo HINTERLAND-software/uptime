@@ -7,7 +7,9 @@ assignees:
 # Add your sites here
 sites:
   - name: hansekai-apartments
-    url: http://hansekai-apartments.netlify.app
+    url: https://hansekai-apartments.de
+  - name: arianna-musikerviertel
+    url: http://arianna-musikerviertel.de/
   - name: wakenitzmauer-luebeck
     url: https://wakenitzmauer-luebeck.de
   - name: carlaemrich
