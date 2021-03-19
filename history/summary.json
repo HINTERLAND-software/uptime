@@ -121,17 +121,17 @@
     "url": "https://ivm-meyer.de",
     "icon": "https://favicons.githubusercontent.com/ivm-meyer.de",
     "slug": "ivm-meyer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 453,
-    "timeDay": 535,
-    "timeWeek": 491,
-    "timeMonth": 421,
-    "timeYear": 453,
+    "time": 459,
+    "timeDay": 633,
+    "timeWeek": 552,
+    "timeMonth": 434,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2021-03-10": 37
     }
