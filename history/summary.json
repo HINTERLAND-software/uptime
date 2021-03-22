@@ -24,7 +24,7 @@
     "url": "http://arianna-musikerviertel.de/",
     "icon": "https://favicons.githubusercontent.com/arianna-musikerviertel.de",
     "slug": "arianna-musikerviertel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -129,7 +129,7 @@
     "uptimeYear": "99.96%",
     "time": 454,
     "timeDay": 515,
-    "timeWeek": 512,
+    "timeWeek": 541,
     "timeMonth": 438,
     "timeYear": 454,
     "dailyMinutesDown": {
