@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 1188,
-    "timeWeek": 728,
+    "timeWeek": 695,
     "timeMonth": 629,
     "timeYear": 534,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
     "url": "http://arianna-musikerviertel.de/",
     "icon": "https://favicons.githubusercontent.com/arianna-musikerviertel.de",
     "slug": "arianna-musikerviertel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 384,
     "timeDay": 526,
-    "timeWeek": 412,
+    "timeWeek": 411,
     "timeMonth": 384,
     "timeYear": 384,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "99.96%",
     "time": 476,
     "timeDay": 1070,
-    "timeWeek": 514,
+    "timeWeek": 533,
     "timeMonth": 457,
     "timeYear": 476,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "uptimeYear": "99.97%",
     "time": 531,
     "timeDay": 321,
-    "timeWeek": 637,
+    "timeWeek": 668,
     "timeMonth": 416,
     "timeYear": 531,
     "dailyMinutesDown": {
@@ -129,7 +129,7 @@
     "uptimeYear": "99.96%",
     "time": 446,
     "timeDay": 279,
-    "timeWeek": 440,
+    "timeWeek": 448,
     "timeMonth": 441,
     "timeYear": 446,
     "dailyMinutesDown": {
@@ -149,7 +149,7 @@
     "uptimeYear": "100.00%",
     "time": 897,
     "timeDay": 264,
-    "timeWeek": 3654,
+    "timeWeek": 540,
     "timeMonth": 1363,
     "timeYear": 897,
     "dailyMinutesDown": {}
@@ -187,7 +187,7 @@
     "uptimeYear": "99.97%",
     "time": 609,
     "timeDay": 380,
-    "timeWeek": 642,
+    "timeWeek": 578,
     "timeMonth": 540,
     "timeYear": 609,
     "dailyMinutesDown": {
@@ -208,7 +208,7 @@
     "uptimeYear": "100.00%",
     "time": 452,
     "timeDay": 920,
-    "timeWeek": 1144,
+    "timeWeek": 452,
     "timeMonth": 535,
     "timeYear": 452,
     "dailyMinutesDown": {}
