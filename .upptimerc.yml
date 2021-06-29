@@ -20,8 +20,6 @@ sites:
     url: https://strassburg-passage.de
   - name: ivm-meyer
     url: https://ivm-meyer.de
-  - name: bruecke-oh
-    url: https://bruecke-oh.de
   - name: heidpartner
     url: https://heidpartner.de
   - name: vh-gruppe
