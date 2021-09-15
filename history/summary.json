@@ -141,17 +141,17 @@
     "url": "https://heidpartner.de",
     "icon": "https://favicons.githubusercontent.com/heidpartner.de",
     "slug": "heidpartner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 642,
-    "timeWeek": 471,
-    "timeMonth": 411,
-    "timeYear": 609,
+    "time": 612,
+    "timeDay": 935,
+    "timeWeek": 566,
+    "timeMonth": 436,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2021-02-18": 4
     }
