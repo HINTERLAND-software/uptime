@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 617,
     "timeDay": 164,
-    "timeWeek": 409,
+    "timeWeek": 415,
     "timeMonth": 1180,
     "timeYear": 633,
     "dailyMinutesDown": {}
@@ -58,9 +58,9 @@
     "url": "https://wakenitzmauer-luebeck.de",
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 205,
     "timeMonth": 356,
     "timeYear": 389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "carlaemrich",
