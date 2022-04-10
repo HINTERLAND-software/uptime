@@ -40,10 +40,10 @@
     "url": "http://arianna-musikerviertel.de/",
     "icon": "https://favicons.githubusercontent.com/arianna-musikerviertel.de",
     "slug": "arianna-musikerviertel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 437,
@@ -51,7 +51,9 @@
     "timeWeek": 241,
     "timeMonth": 307,
     "timeYear": 439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "wakenitzmauer-luebeck",
@@ -202,10 +204,10 @@
     "url": "https://hinterland.software",
     "icon": "https://favicons.githubusercontent.com/hinterland.software",
     "slug": "hinterland-software",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 569,
@@ -213,7 +215,9 @@
     "timeWeek": 359,
     "timeMonth": 421,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "linkedin-portfolio",
