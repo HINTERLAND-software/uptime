@@ -58,19 +58,19 @@
     "url": "https://wakenitzmauer-luebeck.de",
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 400,
-    "timeDay": 259,
-    "timeWeek": 228,
-    "timeMonth": 329,
-    "timeYear": 380,
+    "timeDay": 225,
+    "timeWeek": 223,
+    "timeMonth": 325,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 15
     }
   },
   {
@@ -97,19 +97,17 @@
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 149,
     "timeWeek": 136,
     "timeMonth": 177,
     "timeYear": 342,
-    "dailyMinutesDown": {
-      "2022-04-14": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "strassburg-passage",
@@ -226,18 +224,16 @@
     "slug": "linkedin-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
     "timeDay": 188,
     "timeWeek": 228,
     "timeMonth": 358,
     "timeYear": 392,
-    "dailyMinutesDown": {
-      "2022-04-14": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cv-gen",
