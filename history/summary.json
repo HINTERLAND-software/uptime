@@ -58,9 +58,9 @@
     "url": "https://wakenitzmauer-luebeck.de",
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 228,
     "timeMonth": 329,
     "timeYear": 380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "carlaemrich",
@@ -94,19 +96,19 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 176,
-    "timeWeek": 137,
-    "timeMonth": 179,
-    "timeYear": 343,
+    "timeDay": 149,
+    "timeWeek": 136,
+    "timeMonth": 177,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 10
     }
   },
   {
@@ -222,19 +224,19 @@
     "url": "https://johannroehl.de",
     "icon": "https://favicons.githubusercontent.com/johannroehl.de",
     "slug": "linkedin-portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 278,
-    "timeWeek": 246,
-    "timeMonth": 366,
-    "timeYear": 393,
+    "time": 444,
+    "timeDay": 188,
+    "timeWeek": 228,
+    "timeMonth": 358,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2022-04-14": 1
+      "2022-04-14": 10
     }
   },
   {
