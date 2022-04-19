@@ -58,10 +58,10 @@
     "url": "https://wakenitzmauer-luebeck.de",
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 398,
@@ -70,6 +70,7 @@
     "timeMonth": 320,
     "timeYear": 376,
     "dailyMinutesDown": {
+      "2022-04-19": 1,
       "2022-04-14": 31
     }
   },
@@ -78,10 +79,10 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
@@ -89,17 +90,19 @@
     "timeWeek": 419,
     "timeMonth": 303,
     "timeYear": 442,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 1
+    }
   },
   {
     "name": "agenturgoeschen",
     "url": "https://agenturgoeschen.com",
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
@@ -107,7 +110,9 @@
     "timeWeek": 258,
     "timeMonth": 198,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 1
+    }
   },
   {
     "name": "strassburg-passage",
@@ -152,28 +157,26 @@
     "slug": "heidpartner",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 521,
     "timeDay": 1260,
     "timeWeek": 597,
     "timeMonth": 507,
     "timeYear": 482,
-    "dailyMinutesDown": {
-      "2022-04-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vh-gruppe",
     "url": "https://vh-gruppe.de",
     "icon": "https://favicons.githubusercontent.com/vh-gruppe.de",
     "slug": "vh-gruppe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
@@ -181,7 +184,9 @@
     "timeWeek": 256,
     "timeMonth": 257,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 1
+    }
   },
   {
     "name": "five-minutes",
@@ -213,7 +218,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 565,
-    "timeDay": 434,
+    "timeDay": 63,
     "timeWeek": 387,
     "timeMonth": 433,
     "timeYear": 560,
