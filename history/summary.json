@@ -40,19 +40,19 @@
     "url": "http://arianna-musikerviertel.de/",
     "icon": "https://favicons.githubusercontent.com/arianna-musikerviertel.de",
     "slug": "arianna-musikerviertel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 1651,
-    "timeWeek": 727,
-    "timeMonth": 368,
-    "timeYear": 436,
+    "time": 439,
+    "timeDay": 1165,
+    "timeWeek": 667,
+    "timeMonth": 363,
+    "timeYear": 435,
     "dailyMinutesDown": {
-      "2022-04-24": 1
+      "2022-04-24": 7
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 504,
-    "timeDay": 2967,
-    "timeWeek": 869,
-    "timeMonth": 455,
-    "timeYear": 451,
+    "timeDay": 2047,
+    "timeWeek": 803,
+    "timeMonth": 448,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2022-04-24": 1
+      "2022-04-24": 6
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 2068,
-    "timeWeek": 683,
-    "timeMonth": 299,
-    "timeYear": 344,
+    "time": 385,
+    "timeDay": 1436,
+    "timeWeek": 632,
+    "timeMonth": 295,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-04-24": 1
+      "2022-04-24": 6
     }
   },
   {
@@ -156,19 +156,19 @@
     "url": "https://heidpartner.de",
     "icon": "https://favicons.githubusercontent.com/heidpartner.de",
     "slug": "heidpartner",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 6435,
-    "timeWeek": 1830,
-    "timeMonth": 847,
-    "timeYear": 500,
+    "time": 543,
+    "timeDay": 4358,
+    "timeWeek": 1682,
+    "timeMonth": 829,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2022-04-24": 0
+      "2022-04-24": 6
     }
   },
   {
@@ -194,19 +194,19 @@
     "url": "https://five-minutes.app",
     "icon": "https://favicons.githubusercontent.com/five-minutes.app",
     "slug": "five-minutes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 174,
-    "timeWeek": 223,
-    "timeMonth": 184,
-    "timeYear": 298,
+    "time": 328,
+    "timeDay": 129,
+    "timeWeek": 206,
+    "timeMonth": 181,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2022-04-24": 0
+      "2022-04-24": 6
     }
   },
   {
@@ -214,19 +214,19 @@
     "url": "https://hinterland.software",
     "icon": "https://favicons.githubusercontent.com/hinterland.software",
     "slug": "hinterland-software",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 302,
-    "timeWeek": 341,
+    "time": 561,
+    "timeDay": 345,
+    "timeWeek": 345,
     "timeMonth": 379,
-    "timeYear": 555,
+    "timeYear": 554,
     "dailyMinutesDown": {
-      "2022-04-24": 0
+      "2022-04-24": 6
     }
   },
   {
@@ -234,19 +234,19 @@
     "url": "https://johannroehl.de",
     "icon": "https://favicons.githubusercontent.com/johannroehl.de",
     "slug": "linkedin-portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 1626,
-    "timeWeek": 558,
-    "timeMonth": 378,
-    "timeYear": 387,
+    "time": 443,
+    "timeDay": 1152,
+    "timeWeek": 518,
+    "timeMonth": 373,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2022-04-24": 0
+      "2022-04-24": 6
     }
   },
   {
