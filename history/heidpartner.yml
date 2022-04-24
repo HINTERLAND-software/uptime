@@ -1,7 +1,7 @@
 url: https://heidpartner.de
-status: up
-code: 200
-responseTime: 73
-lastUpdated: 2022-04-23T23:04:24.535Z
+status: down
+code: 500
+responseTime: 12796
+lastUpdated: 2022-04-24T21:40:16.769Z
 startTime: Tue Jan 12 2021 06:25:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
