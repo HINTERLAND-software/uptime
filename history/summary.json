@@ -78,18 +78,20 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
-    "timeDay": 2099,
-    "timeWeek": 786,
-    "timeMonth": 448,
-    "timeYear": 447,
-    "dailyMinutesDown": {}
+    "timeDay": 1636,
+    "timeWeek": 737,
+    "timeMonth": 442,
+    "timeYear": 446,
+    "dailyMinutesDown": {
+      "2022-04-25": 0
+    }
   },
   {
     "name": "agenturgoeschen",
@@ -212,7 +214,7 @@
     "uptimeYear": "100.00%",
     "time": 560,
     "timeDay": 226,
-    "timeWeek": 280,
+    "timeWeek": 195,
     "timeMonth": 371,
     "timeYear": 553,
     "dailyMinutesDown": {}
