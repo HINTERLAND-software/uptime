@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 782,
-    "timeDay": 712,
-    "timeWeek": 751,
-    "timeMonth": 793,
+    "timeDay": 765,
+    "timeWeek": 711,
+    "timeMonth": 799,
     "timeYear": 782,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 44,
-    "timeWeek": 223,
-    "timeMonth": 301,
-    "timeYear": 614,
+    "time": 603,
+    "timeDay": 260,
+    "timeWeek": 213,
+    "timeMonth": 307,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "arianna-musikerviertel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
-    "timeDay": 1165,
-    "timeWeek": 667,
-    "timeMonth": 363,
+    "timeDay": 1187,
+    "timeWeek": 644,
+    "timeMonth": 362,
     "timeYear": 435,
-    "dailyMinutesDown": {
-      "2022-04-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wakenitzmauer-luebeck",
@@ -67,8 +65,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 396,
-    "timeDay": 257,
-    "timeWeek": 274,
+    "timeDay": 259,
+    "timeWeek": 261,
     "timeMonth": 285,
     "timeYear": 374,
     "dailyMinutesDown": {
@@ -82,18 +80,16 @@
     "slug": "carlaemrich",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 2047,
-    "timeWeek": 803,
+    "time": 503,
+    "timeDay": 2099,
+    "timeWeek": 786,
     "timeMonth": 448,
-    "timeYear": 450,
-    "dailyMinutesDown": {
-      "2022-04-24": 6
-    }
+    "timeYear": 447,
+    "dailyMinutesDown": {}
   },
   {
     "name": "agenturgoeschen",
@@ -101,19 +97,17 @@
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
-    "timeDay": 1436,
-    "timeWeek": 632,
-    "timeMonth": 295,
+    "timeDay": 1432,
+    "timeWeek": 532,
+    "timeMonth": 292,
     "timeYear": 343,
-    "dailyMinutesDown": {
-      "2022-04-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "strassburg-passage",
@@ -126,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 163,
-    "timeWeek": 240,
-    "timeMonth": 253,
-    "timeYear": 385,
+    "time": 435,
+    "timeDay": 261,
+    "timeWeek": 218,
+    "timeMonth": 255,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   },
   {
@@ -145,10 +139,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 183,
+    "timeDay": 283,
     "timeWeek": 332,
-    "timeMonth": 302,
-    "timeYear": 355,
+    "timeMonth": 303,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   },
   {
@@ -158,18 +152,16 @@
     "slug": "heidpartner",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 4358,
-    "timeWeek": 1682,
-    "timeMonth": 829,
-    "timeYear": 499,
-    "dailyMinutesDown": {
-      "2022-04-24": 6
-    }
+    "time": 542,
+    "timeDay": 4349,
+    "timeWeek": 1637,
+    "timeMonth": 778,
+    "timeYear": 498,
+    "dailyMinutesDown": {}
   },
   {
     "name": "vh-gruppe",
@@ -183,9 +175,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 248,
-    "timeWeek": 264,
-    "timeMonth": 252,
+    "timeDay": 211,
+    "timeWeek": 244,
+    "timeMonth": 253,
     "timeYear": 425,
     "dailyMinutesDown": {}
   },
@@ -196,18 +188,16 @@
     "slug": "five-minutes",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 129,
-    "timeWeek": 206,
-    "timeMonth": 181,
+    "timeDay": 119,
+    "timeWeek": 183,
+    "timeMonth": 180,
     "timeYear": 297,
-    "dailyMinutesDown": {
-      "2022-04-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "hinterland-software",
@@ -216,18 +206,16 @@
     "slug": "hinterland-software",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 345,
-    "timeWeek": 345,
-    "timeMonth": 379,
-    "timeYear": 554,
-    "dailyMinutesDown": {
-      "2022-04-24": 6
-    }
+    "time": 560,
+    "timeDay": 226,
+    "timeWeek": 280,
+    "timeMonth": 371,
+    "timeYear": 553,
+    "dailyMinutesDown": {}
   },
   {
     "name": "linkedin-portfolio",
@@ -236,18 +224,16 @@
     "slug": "linkedin-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 1152,
-    "timeWeek": 518,
-    "timeMonth": 373,
+    "timeDay": 1188,
+    "timeWeek": 501,
+    "timeMonth": 345,
     "timeYear": 386,
-    "dailyMinutesDown": {
-      "2022-04-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cv-gen",
@@ -261,8 +247,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 211,
-    "timeWeek": 171,
+    "timeDay": 185,
+    "timeWeek": 163,
     "timeMonth": 186,
     "timeYear": 315,
     "dailyMinutesDown": {}
@@ -278,10 +264,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 33,
-    "timeWeek": 278,
-    "timeMonth": 196,
+    "time": 417,
+    "timeDay": 87,
+    "timeWeek": 63,
+    "timeMonth": 198,
     "timeYear": 437,
     "dailyMinutesDown": {}
   }
