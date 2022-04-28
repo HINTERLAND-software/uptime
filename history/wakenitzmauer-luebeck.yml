@@ -1,7 +1,7 @@
 url: https://wakenitzmauer-luebeck.de
-status: up
-code: 200
-responseTime: 296
-lastUpdated: 2022-04-27T23:04:28.246Z
+status: down
+code: 500
+responseTime: 271
+lastUpdated: 2022-04-28T14:57:33.356Z
 startTime: Tue Jan 12 2021 06:25:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
