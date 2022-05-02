@@ -24,18 +24,16 @@
     "slug": "hansekai-apartments",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
     "timeDay": 257,
     "timeWeek": 386,
     "timeMonth": 287,
     "timeYear": 603,
-    "dailyMinutesDown": {
-      "2022-05-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "arianna-musikerviertel",
@@ -80,19 +78,19 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 499,
-    "timeDay": 219,
-    "timeWeek": 324,
+    "timeDay": 280,
+    "timeWeek": 335,
     "timeMonth": 454,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 6
     }
   },
   {
