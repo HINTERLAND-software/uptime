@@ -22,47 +22,51 @@
     "url": "https://hansekai-apartments.de",
     "icon": "https://favicons.githubusercontent.com/hansekai-apartments.de",
     "slug": "hansekai-apartments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 600,
     "timeDay": 265,
     "timeWeek": 405,
     "timeMonth": 288,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 3
+    }
   },
   {
     "name": "arianna-musikerviertel",
     "url": "http://arianna-musikerviertel.de/",
     "icon": "https://favicons.githubusercontent.com/arianna-musikerviertel.de",
     "slug": "arianna-musikerviertel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 436,
     "timeDay": 206,
     "timeWeek": 279,
     "timeMonth": 374,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 3
+    }
   },
   {
     "name": "wakenitzmauer-luebeck",
     "url": "https://wakenitzmauer-luebeck.de",
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 393,
     "timeDay": 196,
@@ -70,6 +74,7 @@
     "timeMonth": 263,
     "timeYear": 368,
     "dailyMinutesDown": {
+      "2022-05-02": 3,
       "2022-04-14": 31
     }
   },
@@ -78,18 +83,20 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 500,
     "timeDay": 265,
     "timeWeek": 352,
     "timeMonth": 468,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 3
+    }
   },
   {
     "name": "agenturgoeschen",
@@ -114,10 +121,10 @@
     "url": "https://strassburg-passage.de",
     "icon": "https://favicons.githubusercontent.com/strassburg-passage.de",
     "slug": "strassburg-passage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
@@ -125,7 +132,9 @@
     "timeWeek": 358,
     "timeMonth": 281,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 2
+    }
   },
   {
     "name": "ivm-meyer",
@@ -150,18 +159,20 @@
     "url": "https://heidpartner.de",
     "icon": "https://favicons.githubusercontent.com/heidpartner.de",
     "slug": "heidpartner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 207,
-    "timeWeek": 524,
-    "timeMonth": 765,
-    "timeYear": 491,
-    "dailyMinutesDown": {}
+    "time": 561,
+    "timeDay": 4967,
+    "timeWeek": 1674,
+    "timeMonth": 1014,
+    "timeYear": 516,
+    "dailyMinutesDown": {
+      "2022-05-02": 2
+    }
   },
   {
     "name": "vh-gruppe",
@@ -186,10 +197,10 @@
     "url": "https://five-minutes.app",
     "icon": "https://favicons.githubusercontent.com/five-minutes.app",
     "slug": "five-minutes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
@@ -197,35 +208,39 @@
     "timeWeek": 169,
     "timeMonth": 187,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 1
+    }
   },
   {
     "name": "hinterland-software",
     "url": "https://hinterland.software",
     "icon": "https://favicons.githubusercontent.com/hinterland.software",
     "slug": "hinterland-software",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 335,
-    "timeWeek": 441,
-    "timeMonth": 360,
-    "timeYear": 547,
-    "dailyMinutesDown": {}
+    "time": 574,
+    "timeDay": 4469,
+    "timeWeek": 1461,
+    "timeMonth": 589,
+    "timeYear": 568,
+    "dailyMinutesDown": {
+      "2022-05-02": 1
+    }
   },
   {
     "name": "linkedin-portfolio",
     "url": "https://johannroehl.de",
     "icon": "https://favicons.githubusercontent.com/johannroehl.de",
     "slug": "linkedin-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 446,
@@ -233,17 +248,19 @@
     "timeWeek": 668,
     "timeMonth": 439,
     "timeYear": 386,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 1
+    }
   },
   {
     "name": "cv-gen",
     "url": "https://cv.johannroehl.de",
     "icon": "https://favicons.githubusercontent.com/cv.johannroehl.de",
     "slug": "cv-gen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
@@ -251,16 +268,18 @@
     "timeWeek": 433,
     "timeMonth": 242,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 1
+    }
   },
   {
     "name": "contentful-gatsby-boilerplate",
     "url": "http://contentful-gatsby-boilerplate.netlify.app",
     "icon": "https://favicons.githubusercontent.com/contentful-gatsby-boilerplate.netlify.app",
     "slug": "contentful-gatsby-boilerplate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -269,6 +288,8 @@
     "timeWeek": 780,
     "timeMonth": 350,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 0
+    }
   }
 ]
