@@ -60,19 +60,19 @@
     "url": "https://wakenitzmauer-luebeck.de",
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 390,
-    "timeDay": 183,
-    "timeWeek": 536,
-    "timeMonth": 357,
-    "timeYear": 359,
+    "time": 398,
+    "timeDay": 2652,
+    "timeWeek": 995,
+    "timeMonth": 485,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-05-17": 1,
+      "2022-05-17": 12,
       "2022-04-14": 31
     }
   },
@@ -99,19 +99,19 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 260,
-    "timeWeek": 205,
-    "timeMonth": 328,
+    "timeDay": 219,
+    "timeWeek": 202,
+    "timeMonth": 323,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-05-17": 1
+      "2022-05-17": 11
     }
   },
   {
@@ -119,18 +119,20 @@
     "url": "https://strassburg-passage.de",
     "icon": "https://favicons.githubusercontent.com/strassburg-passage.de",
     "slug": "strassburg-passage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
+    "time": 423,
     "timeDay": 195,
     "timeWeek": 255,
     "timeMonth": 286,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "ivm-meyer",
@@ -175,19 +177,19 @@
     "url": "https://vh-gruppe.de",
     "icon": "https://favicons.githubusercontent.com/vh-gruppe.de",
     "slug": "vh-gruppe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 449,
-    "timeDay": 231,
-    "timeWeek": 503,
-    "timeMonth": 340,
+    "timeDay": 217,
+    "timeWeek": 465,
+    "timeMonth": 336,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2022-05-17": 0
+      "2022-05-17": 11
     }
   },
   {
@@ -213,18 +215,20 @@
     "url": "https://hinterland.software",
     "icon": "https://favicons.githubusercontent.com/hinterland.software",
     "slug": "hinterland-software",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
+    "time": 571,
     "timeDay": 2804,
     "timeWeek": 972,
     "timeMonth": 694,
     "timeYear": 562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "linkedin-portfolio",
