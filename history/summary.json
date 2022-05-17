@@ -62,9 +62,9 @@
     "slug": "wakenitzmauer-luebeck",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 398,
     "timeDay": 2652,
@@ -72,7 +72,6 @@
     "timeMonth": 485,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-05-17": 12,
       "2022-04-14": 31
     }
   },
@@ -100,19 +99,17 @@
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 219,
     "timeWeek": 202,
     "timeMonth": 323,
     "timeYear": 327,
-    "dailyMinutesDown": {
-      "2022-05-17": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "strassburg-passage",
@@ -121,9 +118,9 @@
     "slug": "strassburg-passage",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 423,
     "timeDay": 195,
@@ -131,7 +128,7 @@
     "timeMonth": 286,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2022-05-17": 1
+      "2022-05-17": 13
     }
   },
   {
@@ -179,18 +176,16 @@
     "slug": "vh-gruppe",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 449,
     "timeDay": 217,
     "timeWeek": 465,
     "timeMonth": 336,
     "timeYear": 403,
-    "dailyMinutesDown": {
-      "2022-05-17": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "five-minutes",
@@ -215,19 +210,19 @@
     "url": "https://hinterland.software",
     "icon": "https://favicons.githubusercontent.com/hinterland.software",
     "slug": "hinterland-software",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 2804,
-    "timeWeek": 972,
-    "timeMonth": 694,
-    "timeYear": 562,
+    "time": 579,
+    "timeDay": 3627,
+    "timeWeek": 1450,
+    "timeMonth": 818,
+    "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-05-17": 1
+      "2022-05-17": 13
     }
   },
   {
