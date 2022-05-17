@@ -60,10 +60,10 @@
     "url": "https://wakenitzmauer-luebeck.de",
     "icon": "https://favicons.githubusercontent.com/wakenitzmauer-luebeck.de",
     "slug": "wakenitzmauer-luebeck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 390,
@@ -72,6 +72,7 @@
     "timeMonth": 357,
     "timeYear": 359,
     "dailyMinutesDown": {
+      "2022-05-17": 1,
       "2022-04-14": 31
     }
   },
@@ -98,18 +99,20 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
+    "time": 362,
     "timeDay": 260,
     "timeWeek": 205,
     "timeMonth": 328,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "strassburg-passage",
@@ -172,18 +175,20 @@
     "url": "https://vh-gruppe.de",
     "icon": "https://favicons.githubusercontent.com/vh-gruppe.de",
     "slug": "vh-gruppe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
+    "time": 449,
     "timeDay": 231,
     "timeWeek": 503,
     "timeMonth": 340,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "five-minutes",
