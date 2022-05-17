@@ -78,10 +78,10 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 488,
@@ -89,7 +89,9 @@
     "timeWeek": 314,
     "timeMonth": 439,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "agenturgoeschen",
@@ -132,19 +134,19 @@
     "url": "https://ivm-meyer.de",
     "icon": "https://favicons.githubusercontent.com/ivm-meyer.de",
     "slug": "ivm-meyer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 364,
-    "timeDay": 491,
-    "timeWeek": 442,
-    "timeMonth": 327,
+    "timeDay": 329,
+    "timeWeek": 411,
+    "timeMonth": 322,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-05-17": 1
+      "2022-05-17": 10
     }
   },
   {
@@ -206,10 +208,10 @@
     "url": "https://hinterland.software",
     "icon": "https://favicons.githubusercontent.com/hinterland.software",
     "slug": "hinterland-software",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 562,
@@ -217,7 +219,9 @@
     "timeWeek": 358,
     "timeMonth": 563,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "linkedin-portfolio",
@@ -260,19 +264,19 @@
     "url": "http://contentful-gatsby-boilerplate.netlify.app",
     "icon": "https://favicons.githubusercontent.com/contentful-gatsby-boilerplate.netlify.app",
     "slug": "contentful-gatsby-boilerplate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 54,
-    "timeWeek": 238,
-    "timeMonth": 386,
-    "timeYear": 442,
+    "time": 427,
+    "timeDay": 2648,
+    "timeWeek": 863,
+    "timeMonth": 537,
+    "timeYear": 455,
     "dailyMinutesDown": {
-      "2022-05-17": 1
+      "2022-05-17": 11
     }
   }
 ]
