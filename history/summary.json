@@ -22,18 +22,20 @@
     "url": "https://hansekai-apartments.de",
     "icon": "https://favicons.githubusercontent.com/hansekai-apartments.de",
     "slug": "hansekai-apartments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
+    "time": 594,
     "timeDay": 142,
     "timeWeek": 469,
     "timeMonth": 348,
     "timeYear": 589,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "arianna-musikerviertel",
@@ -62,9 +64,9 @@
     "slug": "wakenitzmauer-luebeck",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 398,
     "timeDay": 1810,
@@ -72,7 +74,6 @@
     "timeMonth": 476,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2022-05-17": 11,
       "2022-04-14": 31
     }
   },
@@ -81,19 +82,19 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
+    "time": 485,
     "timeDay": 150,
     "timeWeek": 280,
     "timeMonth": 425,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2022-05-17": 11
+      "2022-05-17": 1
     }
   },
   {
@@ -195,10 +196,10 @@
     "url": "https://five-minutes.app",
     "icon": "https://favicons.githubusercontent.com/five-minutes.app",
     "slug": "five-minutes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
@@ -206,7 +207,9 @@
     "timeWeek": 564,
     "timeMonth": 279,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "hinterland-software",
@@ -215,18 +218,16 @@
     "slug": "hinterland-software",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 581,
     "timeDay": 3117,
     "timeWeek": 1463,
     "timeMonth": 838,
     "timeYear": 577,
-    "dailyMinutesDown": {
-      "2022-05-17": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "linkedin-portfolio",
