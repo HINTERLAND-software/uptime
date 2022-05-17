@@ -40,10 +40,10 @@
     "url": "http://arianna-musikerviertel.de/",
     "icon": "https://favicons.githubusercontent.com/arianna-musikerviertel.de",
     "slug": "arianna-musikerviertel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
@@ -51,7 +51,9 @@
     "timeWeek": 265,
     "timeMonth": 419,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "wakenitzmauer-luebeck",
@@ -78,19 +80,19 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 122,
-    "timeWeek": 314,
-    "timeMonth": 439,
+    "time": 487,
+    "timeDay": 149,
+    "timeWeek": 296,
+    "timeMonth": 432,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2022-05-17": 1
+      "2022-05-17": 14
     }
   },
   {
@@ -136,36 +138,36 @@
     "slug": "ivm-meyer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
     "timeDay": 329,
     "timeWeek": 411,
     "timeMonth": 322,
     "timeYear": 347,
-    "dailyMinutesDown": {
-      "2022-05-17": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "heidpartner",
     "url": "https://heidpartner.de",
     "icon": "https://favicons.githubusercontent.com/heidpartner.de",
     "slug": "heidpartner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
+    "time": 542,
     "timeDay": 148,
     "timeWeek": 323,
     "timeMonth": 1026,
     "timeYear": 497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 1
+    }
   },
   {
     "name": "vh-gruppe",
@@ -208,19 +210,19 @@
     "url": "https://hinterland.software",
     "icon": "https://favicons.githubusercontent.com/hinterland.software",
     "slug": "hinterland-software",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 338,
-    "timeWeek": 358,
-    "timeMonth": 563,
-    "timeYear": 550,
+    "time": 572,
+    "timeDay": 2804,
+    "timeWeek": 972,
+    "timeMonth": 694,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2022-05-17": 1
+      "2022-05-17": 14
     }
   },
   {
@@ -266,17 +268,15 @@
     "slug": "contentful-gatsby-boilerplate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 427,
     "timeDay": 2648,
     "timeWeek": 863,
     "timeMonth": 537,
     "timeYear": 455,
-    "dailyMinutesDown": {
-      "2022-05-17": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
