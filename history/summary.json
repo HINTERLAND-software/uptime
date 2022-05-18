@@ -68,7 +68,7 @@
     "uptimeYear": "99.99%",
     "time": 397,
     "timeDay": 1861,
-    "timeWeek": 923,
+    "timeWeek": 762,
     "timeMonth": 475,
     "timeYear": 370,
     "dailyMinutesDown": {
@@ -98,18 +98,20 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 141,
-    "timeWeek": 208,
-    "timeMonth": 295,
-    "timeYear": 324,
-    "dailyMinutesDown": {}
+    "time": 364,
+    "timeDay": 1115,
+    "timeWeek": 525,
+    "timeMonth": 375,
+    "timeYear": 332,
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   },
   {
     "name": "strassburg-passage",
@@ -144,7 +146,7 @@
     "uptimeYear": "100.00%",
     "time": 364,
     "timeDay": 177,
-    "timeWeek": 399,
+    "timeWeek": 445,
     "timeMonth": 319,
     "timeYear": 345,
     "dailyMinutesDown": {}
@@ -200,7 +202,7 @@
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 228,
-    "timeWeek": 536,
+    "timeWeek": 187,
     "timeMonth": 274,
     "timeYear": 284,
     "dailyMinutesDown": {}
