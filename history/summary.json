@@ -116,18 +116,19 @@
     "url": "https://strassburg-passage.de",
     "icon": "https://favicons.githubusercontent.com/strassburg-passage.de",
     "slug": "strassburg-passage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 412,
+    "time": 411,
     "timeDay": 231,
     "timeWeek": 262,
     "timeMonth": 310,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2022-05-31": 0,
       "2022-05-17": 25
     }
   },
@@ -174,9 +175,9 @@
     "url": "https://vh-gruppe.de",
     "icon": "https://favicons.githubusercontent.com/vh-gruppe.de",
     "slug": "vh-gruppe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,16 +186,18 @@
     "timeWeek": 257,
     "timeMonth": 305,
     "timeYear": 390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   },
   {
     "name": "five-minutes",
     "url": "https://five-minutes.app",
     "icon": "https://favicons.githubusercontent.com/five-minutes.app",
     "slug": "five-minutes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -203,7 +206,9 @@
     "timeWeek": 364,
     "timeMonth": 309,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   },
   {
     "name": "hinterland-software",
