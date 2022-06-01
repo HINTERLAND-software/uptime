@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 646,
-    "timeWeek": 579,
+    "time": 740,
+    "timeDay": 496,
+    "timeWeek": 578,
     "timeMonth": 670,
-    "timeYear": 744,
+    "timeYear": 740,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 265,
-    "timeWeek": 258,
+    "timeDay": 156,
+    "timeWeek": 252,
     "timeMonth": 326,
-    "timeYear": 576,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -42,17 +42,16 @@
     "slug": "arianna-musikerviertel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 434,
-    "timeDay": 1042,
-    "timeWeek": 629,
+    "timeDay": 1003,
+    "timeWeek": 628,
     "timeMonth": 399,
-    "timeYear": 392,
+    "timeYear": 389,
     "dailyMinutesDown": {
-      "2022-05-31": 6,
       "2022-05-17": 17
     }
   },
@@ -67,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 395,
-    "timeDay": 216,
-    "timeWeek": 431,
-    "timeMonth": 508,
+    "time": 394,
+    "timeDay": 147,
+    "timeWeek": 428,
+    "timeMonth": 507,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2022-04-14": 31
@@ -83,18 +82,16 @@
     "slug": "carlaemrich",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 1000,
-    "timeWeek": 514,
-    "timeMonth": 358,
-    "timeYear": 410,
-    "dailyMinutesDown": {
-      "2022-05-31": 6
-    }
+    "time": 475,
+    "timeDay": 964,
+    "timeWeek": 511,
+    "timeMonth": 330,
+    "timeYear": 407,
+    "dailyMinutesDown": {}
   },
   {
     "name": "agenturgoeschen",
@@ -107,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 142,
-    "timeWeek": 315,
-    "timeMonth": 298,
-    "timeYear": 324,
+    "time": 354,
+    "timeDay": 491,
+    "timeWeek": 363,
+    "timeMonth": 309,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -121,17 +118,17 @@
     "slug": "strassburg-passage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 414,
-    "timeDay": 812,
-    "timeWeek": 485,
+    "timeDay": 794,
+    "timeWeek": 484,
     "timeMonth": 368,
-    "timeYear": 368,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2022-05-31": 22,
+      "2022-05-31": 16,
       "2022-05-17": 25
     }
   },
@@ -147,10 +144,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 175,
-    "timeWeek": 237,
+    "timeDay": 125,
+    "timeWeek": 230,
     "timeMonth": 281,
-    "timeYear": 334,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -165,10 +162,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 529,
-    "timeDay": 235,
-    "timeWeek": 349,
-    "timeMonth": 585,
-    "timeYear": 488,
+    "timeDay": 182,
+    "timeWeek": 344,
+    "timeMonth": 584,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2022-05-17": 16
     }
@@ -184,11 +181,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 229,
-    "timeWeek": 259,
-    "timeMonth": 304,
-    "timeYear": 390,
+    "time": 439,
+    "timeDay": 216,
+    "timeWeek": 255,
+    "timeMonth": 299,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2022-05-31": 16
     }
@@ -204,11 +201,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 896,
+    "time": 318,
+    "timeDay": 140,
     "timeWeek": 340,
     "timeMonth": 305,
-    "timeYear": 280,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2022-05-31": 16
     }
@@ -225,10 +222,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 579,
-    "timeDay": 625,
-    "timeWeek": 516,
-    "timeMonth": 926,
-    "timeYear": 569,
+    "timeDay": 319,
+    "timeWeek": 529,
+    "timeMonth": 907,
+    "timeYear": 567,
     "dailyMinutesDown": {}
   },
   {
@@ -242,11 +239,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 224,
-    "timeWeek": 239,
-    "timeMonth": 244,
-    "timeYear": 353,
+    "time": 399,
+    "timeDay": 118,
+    "timeWeek": 234,
+    "timeMonth": 243,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   },
   {
@@ -260,11 +257,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 2338,
-    "timeWeek": 618,
-    "timeMonth": 380,
-    "timeYear": 313,
+    "time": 320,
+    "timeDay": 143,
+    "timeWeek": 470,
+    "timeMonth": 381,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   },
   {
@@ -274,17 +271,15 @@
     "slug": "contentful-gatsby-boilerplate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 825,
-    "timeWeek": 426,
+    "time": 425,
+    "timeDay": 1231,
+    "timeWeek": 568,
     "timeMonth": 449,
     "timeYear": 442,
-    "dailyMinutesDown": {
-      "2022-05-31": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
