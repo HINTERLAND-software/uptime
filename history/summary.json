@@ -269,19 +269,19 @@
     "url": "http://contentful-gatsby-boilerplate.netlify.app",
     "icon": "https://favicons.githubusercontent.com/contentful-gatsby-boilerplate.netlify.app",
     "slug": "contentful-gatsby-boilerplate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 22,
-    "timeWeek": 448,
-    "timeMonth": 448,
-    "timeYear": 440,
+    "time": 424,
+    "timeDay": 40,
+    "timeWeek": 414,
+    "timeMonth": 437,
+    "timeYear": 439,
     "dailyMinutesDown": {
-      "2022-06-02": 1
+      "2022-06-02": 10
     }
   }
 ]
