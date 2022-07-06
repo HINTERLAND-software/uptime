@@ -4,9 +4,9 @@
     "url": "https://giga-hamburg.de/",
     "icon": "https://favicons.githubusercontent.com/giga-hamburg.de",
     "slug": "giga-hamburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 606,
     "timeMonth": 775,
     "timeYear": 765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-06": 0
+    }
   },
   {
     "name": "hansekai-apartments",
@@ -23,9 +25,9 @@
     "icon": "https://favicons.githubusercontent.com/hansekai-apartments.de",
     "slug": "hansekai-apartments",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.77%",
+    "uptimeWeek": "37.67%",
     "uptimeMonth": "17.41%",
     "uptimeYear": "93.12%",
     "time": 593,
