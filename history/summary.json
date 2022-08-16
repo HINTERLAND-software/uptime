@@ -71,9 +71,9 @@
     "slug": "arianna-musikerviertel",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 440,
     "timeDay": 3561,
@@ -81,7 +81,6 @@
     "timeMonth": 707,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2022-08-16": 13,
       "2022-06-15": 38,
       "2022-05-17": 17
     }
@@ -131,9 +130,9 @@
     "slug": "agenturgoeschen",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 338,
     "timeDay": 168,
@@ -141,7 +140,6 @@
     "timeMonth": 294,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2022-08-16": 6,
       "2022-07-03": 18
     }
   },
@@ -253,18 +251,16 @@
     "slug": "hinterland-software",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
     "timeDay": 4099,
     "timeWeek": 1687,
     "timeMonth": 863,
     "timeYear": 615,
-    "dailyMinutesDown": {
-      "2022-08-16": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "linkedin-portfolio",
@@ -273,36 +269,36 @@
     "slug": "linkedin-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
     "timeDay": 9154,
     "timeWeek": 3438,
     "timeMonth": 1160,
     "timeYear": 417,
-    "dailyMinutesDown": {
-      "2022-08-16": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cv-gen",
     "url": "https://cv.johannroehl.de",
     "icon": "https://favicons.githubusercontent.com/cv.johannroehl.de",
     "slug": "cv-gen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 159,
-    "timeWeek": 243,
-    "timeMonth": 267,
-    "timeYear": 296,
-    "dailyMinutesDown": {}
+    "time": 322,
+    "timeDay": 1690,
+    "timeWeek": 615,
+    "timeMonth": 359,
+    "timeYear": 304,
+    "dailyMinutesDown": {
+      "2022-08-16": 1
+    }
   },
   {
     "name": "contentful-gatsby-boilerplate",
