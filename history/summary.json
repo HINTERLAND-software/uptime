@@ -26,17 +26,16 @@
     "slug": "hansekai-apartments",
     "status": "up",
     "uptime": "95.75%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "93.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "93.12%",
     "time": 581,
     "timeDay": 1549,
     "timeWeek": 625,
     "timeMonth": 605,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2022-08-26": 12,
       "2022-07-03": 1134,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
@@ -72,9 +71,9 @@
     "slug": "arianna-musikerviertel",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 462,
     "timeDay": 443,
@@ -82,7 +81,6 @@
     "timeMonth": 684,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2022-08-26": 11,
       "2022-06-15": 38,
       "2022-05-17": 17
     }
@@ -269,18 +267,20 @@
     "url": "https://johannroehl.de",
     "icon": "https://favicons.githubusercontent.com/johannroehl.de",
     "slug": "linkedin-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
+    "time": 426,
     "timeDay": 315,
     "timeWeek": 240,
     "timeMonth": 1158,
     "timeYear": 415,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   },
   {
     "name": "cv-gen",
