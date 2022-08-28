@@ -24,18 +24,19 @@
     "url": "https://hansekai-apartments.de",
     "icon": "https://favicons.githubusercontent.com/hansekai-apartments.de",
     "slug": "hansekai-apartments",
-    "status": "up",
+    "status": "down",
     "uptime": "95.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.12%",
-    "time": 581,
+    "time": 582,
     "timeDay": 432,
     "timeWeek": 650,
     "timeMonth": 600,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2022-08-28": 1,
       "2022-07-03": 1134,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
@@ -69,10 +70,10 @@
     "url": "http://arianna-musikerviertel.de/",
     "icon": "https://favicons.githubusercontent.com/arianna-musikerviertel.de",
     "slug": "arianna-musikerviertel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 461,
@@ -81,6 +82,7 @@
     "timeMonth": 685,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2022-08-28": 1,
       "2022-06-15": 38,
       "2022-05-17": 17
     }
@@ -110,10 +112,10 @@
     "url": "https://carlaemrich.de",
     "icon": "https://favicons.githubusercontent.com/carlaemrich.de",
     "slug": "carlaemrich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
@@ -121,7 +123,9 @@
     "timeWeek": 268,
     "timeMonth": 580,
     "timeYear": 408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-28": 1
+    }
   },
   {
     "name": "agenturgoeschen",
@@ -189,10 +193,10 @@
     "url": "https://heidpartner.de",
     "icon": "https://favicons.githubusercontent.com/heidpartner.de",
     "slug": "heidpartner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 500,
@@ -201,6 +205,7 @@
     "timeMonth": 396,
     "timeYear": 450,
     "dailyMinutesDown": {
+      "2022-08-28": 1,
       "2022-05-17": 16
     }
   },
