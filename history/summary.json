@@ -95,9 +95,9 @@
     "slug": "wakenitzmauer-luebeck",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 390,
     "timeDay": 260,
@@ -105,7 +105,6 @@
     "timeMonth": 411,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2022-08-31": 6,
       "2022-04-14": 31
     }
   },
@@ -134,18 +133,19 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://favicons.githubusercontent.com/agenturgoeschen.com",
     "slug": "agenturgoeschen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
+    "time": 330,
     "timeDay": 122,
     "timeWeek": 199,
     "timeMonth": 278,
     "timeYear": 305,
     "dailyMinutesDown": {
+      "2022-08-31": 1,
       "2022-07-03": 18
     }
   },
@@ -155,10 +155,10 @@
     "icon": "https://favicons.githubusercontent.com/strassburg-passage.de",
     "slug": "strassburg-passage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 367,
     "timeDay": 293,
@@ -166,7 +166,6 @@
     "timeMonth": 340,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2022-08-31": 6,
       "2022-05-31": 16,
       "2022-05-17": 25
     }
@@ -178,9 +177,9 @@
     "slug": "ivm-meyer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
     "timeDay": 174,
@@ -188,7 +187,6 @@
     "timeMonth": 461,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2022-08-31": 6,
       "2022-07-03": 18
     }
   },
@@ -199,9 +197,9 @@
     "slug": "heidpartner",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 500,
     "timeDay": 229,
@@ -209,7 +207,6 @@
     "timeMonth": 391,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2022-08-31": 6,
       "2022-08-28": 51,
       "2022-05-17": 16
     }
@@ -220,10 +217,10 @@
     "icon": "https://favicons.githubusercontent.com/vh-gruppe.de",
     "slug": "vh-gruppe",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
     "timeDay": 319,
@@ -231,7 +228,6 @@
     "timeMonth": 423,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-08-31": 5,
       "2022-05-31": 16
     }
   },
@@ -242,9 +238,9 @@
     "slug": "five-minutes",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 134,
@@ -252,7 +248,6 @@
     "timeMonth": 341,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2022-08-31": 5,
       "2022-05-31": 16
     }
   },
@@ -261,19 +256,19 @@
     "url": "https://hinterland.software",
     "icon": "https://favicons.githubusercontent.com/hinterland.software",
     "slug": "hinterland-software",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
+    "time": 594,
     "timeDay": 523,
     "timeWeek": 473,
     "timeMonth": 823,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2022-08-31": 5
+      "2022-08-31": 1
     }
   },
   {
@@ -283,18 +278,16 @@
     "slug": "linkedin-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 236,
     "timeWeek": 272,
     "timeMonth": 1104,
     "timeYear": 413,
-    "dailyMinutesDown": {
-      "2022-08-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cv-gen",
@@ -303,18 +296,16 @@
     "slug": "cv-gen",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
     "timeDay": 130,
     "timeWeek": 200,
     "timeMonth": 359,
     "timeYear": 297,
-    "dailyMinutesDown": {
-      "2022-08-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "contentful-gatsby-boilerplate",
@@ -323,9 +314,9 @@
     "slug": "contentful-gatsby-boilerplate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 448,
     "timeDay": 223,
@@ -333,7 +324,6 @@
     "timeMonth": 629,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2022-08-31": 5,
       "2022-06-15": 38
     }
   }
