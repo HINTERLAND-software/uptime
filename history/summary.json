@@ -4,18 +4,19 @@
     "url": "https://giga-hamburg.de/",
     "icon": "https://favicons.githubusercontent.com/giga-hamburg.de",
     "slug": "giga-hamburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 690,
-    "timeDay": 2039,
-    "timeWeek": 996,
-    "timeMonth": 688,
-    "timeYear": 690,
+    "time": 688,
+    "timeDay": 1602,
+    "timeWeek": 926,
+    "timeMonth": 676,
+    "timeYear": 688,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-08-16": 17
     }
   },
@@ -203,7 +204,7 @@
     "timeDay": 307,
     "timeWeek": 304,
     "timeMonth": 356,
-    "timeYear": 447,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2022-08-28": 51,
       "2022-05-17": 16
