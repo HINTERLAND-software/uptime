@@ -291,19 +291,19 @@
     "url": "https://cv.johannroehl.de",
     "icon": "https://icons.duckduckgo.com/ip3/cv.johannroehl.de.ico",
     "slug": "cv-gen",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 1805,
-    "timeWeek": 885,
-    "timeMonth": 390,
+    "timeDay": 1281,
+    "timeWeek": 812,
+    "timeMonth": 385,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2022-10-02": 1
+      "2022-10-02": 19
     }
   },
   {
