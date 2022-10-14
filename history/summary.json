@@ -255,36 +255,40 @@
     "url": "https://hinterland.software",
     "icon": "https://icons.duckduckgo.com/ip3/hinterland.software.ico",
     "slug": "hinterland-software",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
+    "time": 595,
     "timeDay": 553,
     "timeWeek": 605,
     "timeMonth": 677,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-14": 1
+    }
   },
   {
     "name": "linkedin-portfolio",
     "url": "https://johannroehl.de",
     "icon": "https://icons.duckduckgo.com/ip3/johannroehl.de.ico",
     "slug": "linkedin-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
+    "time": 407,
     "timeDay": 190,
     "timeWeek": 498,
     "timeMonth": 413,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-14": 1
+    }
   },
   {
     "name": "cv-gen",
