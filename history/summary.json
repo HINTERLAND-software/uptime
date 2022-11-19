@@ -323,18 +323,19 @@
     "url": "http://contentful-gatsby-boilerplate.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/contentful-gatsby-boilerplate.netlify.app.ico",
     "slug": "contentful-gatsby-boilerplate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 434,
-    "timeDay": 246,
-    "timeWeek": 478,
-    "timeMonth": 325,
-    "timeYear": 488,
+    "time": 440,
+    "timeDay": 1677,
+    "timeWeek": 807,
+    "timeMonth": 412,
+    "timeYear": 495,
     "dailyMinutesDown": {
+      "2022-11-19": 0,
       "2022-06-15": 38
     }
   }
