@@ -1,7 +1,7 @@
 url: https://strassburg-passage.de
-status: down
-code: 500
-responseTime: 3123
-lastUpdated: 2022-12-08T05:26:59.354Z
+status: up
+code: 200
+responseTime: 206
+lastUpdated: 2022-12-08T05:34:02.016Z
 startTime: Tue Jan 12 2021 06:25:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
