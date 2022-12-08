@@ -75,8 +75,8 @@
     "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.35%",
-    "uptimeMonth": "94.79%",
+    "uptimeWeek": "77.28%",
+    "uptimeMonth": "94.77%",
     "uptimeYear": "99.54%",
     "time": 464,
     "timeDay": 0,
@@ -84,7 +84,7 @@
     "timeMonth": 474,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2022-12-08": 407,
+      "2022-12-08": 414,
       "2022-12-07": 1440,
       "2022-12-06": 436,
       "2022-11-03": 18,
@@ -141,10 +141,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenturgoeschen.com.ico",
     "slug": "agenturgoeschen",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 339,
     "timeDay": 1527,
@@ -152,7 +152,6 @@
     "timeMonth": 613,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2022-12-08": 7,
       "2022-07-03": 18
     }
   },
@@ -185,9 +184,9 @@
     "slug": "ivm-meyer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 1228,
@@ -195,7 +194,6 @@
     "timeMonth": 353,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-12-08": 7,
       "2022-07-03": 18
     }
   },
@@ -328,19 +326,19 @@
     "url": "http://contentful-gatsby-boilerplate.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/contentful-gatsby-boilerplate.netlify.app.ico",
     "slug": "contentful-gatsby-boilerplate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 461,
-    "timeDay": 1671,
-    "timeWeek": 1030,
-    "timeMonth": 641,
-    "timeYear": 518,
+    "timeDay": 1355,
+    "timeWeek": 968,
+    "timeMonth": 627,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2022-12-08": 0,
+      "2022-12-08": 7,
       "2022-06-15": 38
     }
   }
