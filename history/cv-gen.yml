@@ -1,7 +1,7 @@
 url: https://cv.johannroehl.de
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2022-12-07T23:04:31.988Z
+status: down
+code: 500
+responseTime: 3172
+lastUpdated: 2022-12-08T05:27:22.874Z
 startTime: Tue Jan 12 2021 06:25:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
