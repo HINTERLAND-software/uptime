@@ -1,7 +1,7 @@
 url: https://hinterland.software
-status: up
-code: 200
-responseTime: 626
-lastUpdated: 2022-12-07T23:04:30.873Z
+status: down
+code: 500
+responseTime: 3323
+lastUpdated: 2022-12-08T05:27:16.946Z
 startTime: Tue Jan 12 2021 06:25:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
