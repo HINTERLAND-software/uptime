@@ -1,7 +1,7 @@
 url: http://contentful-gatsby-boilerplate.netlify.app
-status: up
-code: 200
-responseTime: 89
-lastUpdated: 2022-12-10T05:35:50.067Z
+status: down
+code: 500
+responseTime: 3097
+lastUpdated: 2022-12-10T05:48:59.334Z
 startTime: Tue Jan 12 2021 06:25:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
