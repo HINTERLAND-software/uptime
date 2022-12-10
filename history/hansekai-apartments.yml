@@ -1,7 +1,7 @@
 url: https://hansekai-apartments.de
-status: up
-code: 200
-responseTime: 180
-lastUpdated: 2022-12-09T23:04:22.982Z
+status: down
+code: 500
+responseTime: 3150
+lastUpdated: 2022-12-10T05:35:27.393Z
 startTime: Tue Jan 12 2021 06:25:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
