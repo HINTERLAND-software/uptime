@@ -76,7 +76,7 @@
     "uptime": "98.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.10%",
+    "uptimeMonth": "70.08%",
     "uptimeYear": "97.48%",
     "time": 464,
     "timeDay": 0,
@@ -84,7 +84,7 @@
     "timeMonth": 439,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2022-12-15": 1141,
+      "2022-12-15": 1149,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -125,9 +125,9 @@
     "url": "https://carlaemrich.de",
     "icon": "https://icons.duckduckgo.com/ip3/carlaemrich.de.ico",
     "slug": "carlaemrich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -137,6 +137,7 @@
     "timeMonth": 590,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2022-12-15": 0,
       "2022-11-04": 18,
       "2022-11-03": 17,
       "2022-08-28": 51
@@ -189,19 +190,19 @@
     "url": "https://ivm-meyer.de",
     "icon": "https://icons.duckduckgo.com/ip3/ivm-meyer.de.ico",
     "slug": "ivm-meyer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 347,
-    "timeDay": 1679,
-    "timeWeek": 702,
-    "timeMonth": 467,
+    "timeDay": 1205,
+    "timeWeek": 653,
+    "timeMonth": 461,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2022-12-15": 13,
+      "2022-12-15": 21,
       "2022-07-03": 18
     }
   },
@@ -336,9 +337,9 @@
     "slug": "contentful-gatsby-boilerplate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 458,
     "timeDay": 1405,
@@ -346,7 +347,6 @@
     "timeMonth": 836,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2022-12-15": 6,
       "2022-06-15": 38
     }
   }
