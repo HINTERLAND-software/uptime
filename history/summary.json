@@ -4,18 +4,19 @@
     "url": "https://giga-hamburg.de/",
     "icon": "https://icons.duckduckgo.com/ip3/giga-hamburg.de.ico",
     "slug": "giga-hamburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 630,
-    "timeDay": 301,
-    "timeWeek": 477,
-    "timeMonth": 430,
+    "timeDay": 496,
+    "timeWeek": 503,
+    "timeMonth": 438,
     "timeYear": 618,
     "dailyMinutesDown": {
+      "2023-04-14": 0,
       "2022-09-15": 74,
       "2022-08-16": 17
     }
@@ -73,18 +74,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/arianna-musikerviertel.de.ico",
     "slug": "arianna-musikerviertel",
     "status": "down",
-    "uptime": "83.20%",
+    "uptime": "83.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.82%",
+    "uptimeYear": "64.67%",
     "time": 508,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 564,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2023-04-14": 12,
+      "2023-04-14": 832,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -230,12 +231,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 381,
     "timeDay": 259,
     "timeWeek": 375,
     "timeMonth": 332,
-    "timeYear": 393,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   },
   {
@@ -271,11 +272,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
+    "time": 341,
     "timeDay": 217,
     "timeWeek": 377,
     "timeMonth": 292,
-    "timeYear": 369,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2022-07-03": 18
     }
@@ -338,7 +339,7 @@
     "timeDay": 307,
     "timeWeek": 512,
     "timeMonth": 492,
-    "timeYear": 584,
+    "timeYear": 585,
     "dailyMinutesDown": {
       "2022-08-28": 51,
       "2022-05-17": 16
@@ -359,7 +360,7 @@
     "timeDay": 311,
     "timeWeek": 396,
     "timeMonth": 357,
-    "timeYear": 376,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2022-05-31": 16
     }
@@ -399,7 +400,7 @@
     "timeDay": 572,
     "timeWeek": 563,
     "timeMonth": 522,
-    "timeYear": 717,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2022-11-03": 31,
       "2022-10-28": 26,
@@ -422,7 +423,7 @@
     "timeDay": 288,
     "timeWeek": 350,
     "timeMonth": 339,
-    "timeYear": 472,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2022-11-04": 17
     }
@@ -462,7 +463,7 @@
     "timeDay": 151,
     "timeWeek": 254,
     "timeMonth": 278,
-    "timeYear": 440,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2022-06-15": 38
     }
