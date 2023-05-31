@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 612,
-    "timeDay": 300,
-    "timeWeek": 433,
+    "timeDay": 445,
+    "timeWeek": 437,
     "timeMonth": 454,
-    "timeYear": 588,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2022-09-15": 74,
       "2022-08-16": 17
@@ -31,9 +31,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.10%",
-    "time": 568,
-    "timeDay": 489,
-    "timeWeek": 404,
+    "time": 569,
+    "timeDay": 411,
+    "timeWeek": 417,
     "timeMonth": 416,
     "timeYear": 531,
     "dailyMinutesDown": {
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/arianna-musikerviertel.de.ico",
     "slug": "arianna-musikerviertel",
     "status": "down",
-    "uptime": "78.48%",
+    "uptime": "78.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "52.22%",
-    "time": 522,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "51.95%",
+    "time": 524,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 606,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2023-05-30": 14,
+      "2023-05-31": 14,
+      "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
@@ -277,9 +278,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 340,
-    "timeWeek": 279,
-    "timeMonth": 290,
+    "timeDay": 359,
+    "timeWeek": 301,
+    "timeMonth": 292,
     "timeYear": 376,
     "dailyMinutesDown": {}
   },
@@ -295,9 +296,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 435,
-    "timeDay": 178,
-    "timeWeek": 301,
-    "timeMonth": 471,
+    "timeDay": 369,
+    "timeWeek": 312,
+    "timeMonth": 468,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2022-11-04": 18,
@@ -317,10 +318,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
-    "timeDay": 238,
-    "timeWeek": 247,
-    "timeMonth": 423,
-    "timeYear": 375,
+    "timeDay": 303,
+    "timeWeek": 262,
+    "timeMonth": 419,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2022-07-03": 18
     }
@@ -337,13 +338,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 379,
-    "timeDay": 344,
-    "timeWeek": 304,
-    "timeMonth": 345,
+    "timeDay": 408,
+    "timeWeek": 328,
+    "timeMonth": 347,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2022-11-03": 17,
-      "2022-05-31": 16
+      "2022-11-03": 17
     }
   },
   {
@@ -358,10 +358,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 352,
-    "timeDay": 280,
-    "timeWeek": 273,
-    "timeMonth": 387,
-    "timeYear": 364,
+    "timeDay": 326,
+    "timeWeek": 293,
+    "timeMonth": 385,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2022-12-15": 21,
       "2022-07-03": 18
@@ -379,10 +379,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 530,
-    "timeDay": 221,
-    "timeWeek": 366,
-    "timeMonth": 413,
-    "timeYear": 537,
+    "timeDay": 490,
+    "timeWeek": 399,
+    "timeMonth": 415,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2022-08-28": 51
     }
@@ -399,13 +399,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 229,
-    "timeWeek": 292,
-    "timeMonth": 330,
-    "timeYear": 380,
-    "dailyMinutesDown": {
-      "2022-05-31": 16
-    }
+    "timeDay": 419,
+    "timeWeek": 319,
+    "timeMonth": 333,
+    "timeYear": 381,
+    "dailyMinutesDown": {}
   },
   {
     "name": "five-minutes",
@@ -419,13 +417,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 178,
-    "timeWeek": 193,
-    "timeMonth": 302,
-    "timeYear": 376,
-    "dailyMinutesDown": {
-      "2022-05-31": 16
-    }
+    "timeDay": 463,
+    "timeWeek": 241,
+    "timeMonth": 307,
+    "timeYear": 373,
+    "dailyMinutesDown": {}
   },
   {
     "name": "hinterland-software",
@@ -438,10 +434,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 669,
-    "timeDay": 794,
-    "timeWeek": 524,
-    "timeMonth": 483,
+    "time": 670,
+    "timeDay": 566,
+    "timeWeek": 536,
+    "timeMonth": 486,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2022-11-03": 31,
@@ -461,10 +457,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 175,
-    "timeWeek": 271,
-    "timeMonth": 293,
+    "time": 445,
+    "timeDay": 389,
+    "timeWeek": 297,
+    "timeMonth": 296,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2022-11-04": 17
@@ -482,10 +478,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 239,
-    "timeWeek": 225,
-    "timeMonth": 238,
-    "timeYear": 344,
+    "timeDay": 366,
+    "timeWeek": 247,
+    "timeMonth": 242,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2022-10-02": 19
     }
@@ -501,10 +497,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 472,
-    "timeDay": 155,
-    "timeWeek": 182,
-    "timeMonth": 185,
+    "time": 471,
+    "timeDay": 231,
+    "timeWeek": 193,
+    "timeMonth": 187,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2022-06-15": 38
