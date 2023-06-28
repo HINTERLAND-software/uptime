@@ -10,8 +10,6 @@ sites:
     url: https://giga-hamburg.de/
   - name: hansekai-apartments
     url: https://hansekai-apartments.de
-  - name: arianna-musikerviertel
-    url: http://arianna-musikerviertel.de/
   - name: wakenitzmauer-luebeck
     url: https://wakenitzmauer-luebeck.de
   - name: carlaemrich
