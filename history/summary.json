@@ -83,18 +83,20 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenturgoeschen.com.ico",
     "slug": "agenturgoeschen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
+    "time": 346,
     "timeDay": 124,
     "timeWeek": 82,
     "timeMonth": 233,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "strassburg-passage",
