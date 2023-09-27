@@ -4,19 +4,19 @@
     "url": "https://giga-hamburg.de/",
     "icon": "https://icons.duckduckgo.com/ip3/giga-hamburg.de.ico",
     "slug": "giga-hamburg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 584,
-    "timeDay": 289,
-    "timeWeek": 337,
-    "timeMonth": 646,
-    "timeYear": 556,
+    "timeDay": 565,
+    "timeWeek": 400,
+    "timeMonth": 652,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 6
     }
   },
   {
