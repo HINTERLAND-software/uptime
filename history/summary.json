@@ -121,9 +121,9 @@
     "slug": "ivm-meyer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 152,
@@ -131,7 +131,6 @@
     "timeMonth": 261,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2023-09-26": 5,
       "2022-12-15": 21
     }
   },
