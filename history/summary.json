@@ -24,10 +24,10 @@
     "url": "https://hansekai-apartments.de",
     "icon": "https://icons.duckduckgo.com/ip3/hansekai-apartments.de.ico",
     "slug": "hansekai-apartments",
-    "status": "up",
+    "status": "down",
     "uptime": "97.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 478,
@@ -36,6 +36,7 @@
     "timeMonth": 312,
     "timeYear": 447,
     "dailyMinutesDown": {
+      "2023-10-27": 2,
       "2022-11-03": 32
     }
   },
@@ -83,10 +84,10 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenturgoeschen.com.ico",
     "slug": "agenturgoeschen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
@@ -94,7 +95,9 @@
     "timeWeek": 143,
     "timeMonth": 182,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 2
+    }
   },
   {
     "name": "strassburg-passage",
@@ -141,28 +144,30 @@
     "url": "https://heidpartner.de",
     "icon": "https://icons.duckduckgo.com/ip3/heidpartner.de.ico",
     "slug": "heidpartner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 613,
-    "timeWeek": 269,
-    "timeMonth": 291,
-    "timeYear": 518,
-    "dailyMinutesDown": {}
+    "time": 507,
+    "timeDay": 2404,
+    "timeWeek": 760,
+    "timeMonth": 416,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2023-10-27": 1
+    }
   },
   {
     "name": "vh-gruppe",
     "url": "https://vh-gruppe.de",
     "icon": "https://icons.duckduckgo.com/ip3/vh-gruppe.de.ico",
     "slug": "vh-gruppe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
@@ -170,7 +175,9 @@
     "timeWeek": 225,
     "timeMonth": 255,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 1
+    }
   },
   {
     "name": "five-minutes",
