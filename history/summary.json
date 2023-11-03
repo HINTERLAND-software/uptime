@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 568,
-    "timeDay": 299,
-    "timeWeek": 440,
-    "timeMonth": 419,
+    "timeDay": 597,
+    "timeWeek": 456,
+    "timeMonth": 424,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2023-09-29": 17
@@ -30,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 486,
-    "timeDay": 283,
-    "timeWeek": 940,
-    "timeMonth": 468,
+    "time": 484,
+    "timeDay": 529,
+    "timeWeek": 945,
+    "timeMonth": 480,
     "timeYear": 452,
-    "dailyMinutesDown": {
-      "2022-11-03": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wakenitzmauer-luebeck",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 166,
-    "timeWeek": 259,
-    "timeMonth": 269,
+    "timeDay": 361,
+    "timeWeek": 260,
+    "timeMonth": 275,
     "timeYear": 335,
     "dailyMinutesDown": {}
   },
@@ -69,13 +67,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 411,
-    "timeDay": 220,
-    "timeWeek": 993,
-    "timeMonth": 408,
-    "timeYear": 394,
+    "timeDay": 409,
+    "timeWeek": 987,
+    "timeMonth": 415,
+    "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-11-04": 18,
-      "2022-11-03": 17
+      "2022-11-04": 18
     }
   },
   {
@@ -89,10 +86,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 189,
-    "timeWeek": 188,
-    "timeMonth": 175,
+    "time": 329,
+    "timeDay": 315,
+    "timeWeek": 179,
+    "timeMonth": 182,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
@@ -107,14 +104,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 65,
-    "timeWeek": 276,
-    "timeMonth": 282,
+    "time": 395,
+    "timeDay": 440,
+    "timeWeek": 271,
+    "timeMonth": 291,
     "timeYear": 397,
-    "dailyMinutesDown": {
-      "2022-11-03": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ivm-meyer",
@@ -128,10 +123,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 152,
-    "timeWeek": 225,
-    "timeMonth": 223,
-    "timeYear": 314,
+    "timeDay": 283,
+    "timeWeek": 218,
+    "timeMonth": 227,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2022-12-15": 21
     }
@@ -148,9 +143,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 504,
-    "timeDay": 180,
-    "timeWeek": 710,
-    "timeMonth": 384,
+    "timeDay": 450,
+    "timeWeek": 692,
+    "timeMonth": 394,
     "timeYear": 527,
     "dailyMinutesDown": {}
   },
@@ -165,10 +160,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 157,
-    "timeWeek": 320,
-    "timeMonth": 259,
+    "time": 349,
+    "timeDay": 469,
+    "timeWeek": 316,
+    "timeMonth": 268,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -184,10 +179,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 85,
-    "timeWeek": 363,
-    "timeMonth": 225,
-    "timeYear": 326,
+    "timeDay": 233,
+    "timeWeek": 361,
+    "timeMonth": 230,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -202,13 +197,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 660,
-    "timeDay": 671,
-    "timeWeek": 400,
-    "timeMonth": 361,
+    "timeDay": 415,
+    "timeWeek": 408,
+    "timeMonth": 355,
     "timeYear": 638,
-    "dailyMinutesDown": {
-      "2022-11-03": 31
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "linkedin-portfolio",
@@ -222,10 +215,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 426,
-    "timeDay": 463,
-    "timeWeek": 277,
-    "timeMonth": 261,
-    "timeYear": 362,
+    "timeDay": 475,
+    "timeWeek": 292,
+    "timeMonth": 271,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2022-11-04": 17
     }
@@ -242,9 +235,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 159,
-    "timeWeek": 314,
-    "timeMonth": 249,
+    "timeDay": 196,
+    "timeWeek": 300,
+    "timeMonth": 251,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -259,10 +252,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 59,
-    "timeWeek": 168,
-    "timeMonth": 155,
+    "time": 354,
+    "timeDay": 257,
+    "timeWeek": 169,
+    "timeMonth": 161,
     "timeYear": 343,
     "dailyMinutesDown": {}
   }
