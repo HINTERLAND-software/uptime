@@ -24,9 +24,9 @@
     "url": "https://hansekai-apartments.de",
     "icon": "https://icons.duckduckgo.com/ip3/hansekai-apartments.de.ico",
     "slug": "hansekai-apartments",
-    "status": "up",
+    "status": "down",
     "uptime": "97.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 263,
     "timeMonth": 287,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "wakenitzmauer-luebeck",
@@ -47,14 +49,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "89.05%",
+    "uptimeYear": "89.04%",
     "time": 315,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-03-16": 216,
+      "2024-03-16": 252,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -140,18 +142,16 @@
     "slug": "strassburg-passage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 355,
     "timeDay": 462,
     "timeWeek": 301,
     "timeMonth": 265,
     "timeYear": 325,
-    "dailyMinutesDown": {
-      "2024-03-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ivm-meyer",
@@ -194,9 +194,9 @@
     "url": "https://vh-gruppe.de",
     "icon": "https://icons.duckduckgo.com/ip3/vh-gruppe.de.ico",
     "slug": "vh-gruppe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -205,7 +205,9 @@
     "timeWeek": 796,
     "timeMonth": 401,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "five-minutes",
@@ -232,18 +234,16 @@
     "slug": "hinterland-software",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
     "timeDay": 459,
     "timeWeek": 1368,
     "timeMonth": 641,
     "timeYear": 517,
-    "dailyMinutesDown": {
-      "2024-03-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "linkedin-portfolio",
