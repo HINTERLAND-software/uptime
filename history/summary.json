@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakenitzmauer-luebeck.de.ico",
     "slug": "wakenitzmauer-luebeck",
     "status": "down",
-    "uptime": "96.56%",
+    "uptime": "96.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "89.09%",
+    "uptimeYear": "89.05%",
     "time": 315,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-03-16": 12,
+      "2024-03-16": 203,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -156,9 +156,9 @@
     "url": "https://ivm-meyer.de",
     "icon": "https://icons.duckduckgo.com/ip3/ivm-meyer.de.ico",
     "slug": "ivm-meyer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,7 +167,9 @@
     "timeWeek": 686,
     "timeMonth": 342,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "heidpartner",
@@ -246,9 +248,9 @@
     "url": "https://johannroehl.de",
     "icon": "https://icons.duckduckgo.com/ip3/johannroehl.de.ico",
     "slug": "linkedin-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -257,16 +259,18 @@
     "timeWeek": 211,
     "timeMonth": 254,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "cv-gen",
     "url": "https://cv.johannroehl.de",
     "icon": "https://icons.duckduckgo.com/ip3/cv.johannroehl.de.ico",
     "slug": "cv-gen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -275,7 +279,9 @@
     "timeWeek": 158,
     "timeMonth": 220,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "contentful-gatsby-boilerplate",
