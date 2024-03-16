@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-03-16": 203,
+      "2024-03-16": 210,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -138,37 +138,39 @@
     "url": "https://strassburg-passage.de",
     "icon": "https://icons.duckduckgo.com/ip3/strassburg-passage.de.ico",
     "slug": "strassburg-passage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
+    "time": 355,
     "timeDay": 506,
     "timeWeek": 285,
     "timeMonth": 259,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "ivm-meyer",
     "url": "https://ivm-meyer.de",
     "icon": "https://icons.duckduckgo.com/ip3/ivm-meyer.de.ico",
     "slug": "ivm-meyer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 483,
-    "timeWeek": 686,
-    "timeMonth": 342,
+    "timeDay": 317,
+    "timeWeek": 619,
+    "timeMonth": 335,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 7
     }
   },
   {
@@ -230,37 +232,39 @@
     "url": "https://hinterland.software",
     "icon": "https://icons.duckduckgo.com/ip3/hinterland.software.ico",
     "slug": "hinterland-software",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 441,
-    "timeWeek": 1496,
-    "timeMonth": 647,
-    "timeYear": 517,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "linkedin-portfolio",
-    "url": "https://johannroehl.de",
-    "icon": "https://icons.duckduckgo.com/ip3/johannroehl.de.ico",
-    "slug": "linkedin-portfolio",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 344,
-    "timeWeek": 211,
-    "timeMonth": 254,
-    "timeYear": 285,
+    "time": 614,
+    "timeDay": 441,
+    "timeWeek": 1496,
+    "timeMonth": 647,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2024-03-16": 0
+    }
+  },
+  {
+    "name": "linkedin-portfolio",
+    "url": "https://johannroehl.de",
+    "icon": "https://icons.duckduckgo.com/ip3/johannroehl.de.ico",
+    "slug": "linkedin-portfolio",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "100.00%",
+    "time": 323,
+    "timeDay": 308,
+    "timeWeek": 219,
+    "timeMonth": 255,
+    "timeYear": 285,
+    "dailyMinutesDown": {
+      "2024-03-16": 7
     }
   },
   {
@@ -268,19 +272,19 @@
     "url": "https://cv.johannroehl.de",
     "icon": "https://icons.duckduckgo.com/ip3/cv.johannroehl.de.ico",
     "slug": "cv-gen",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 248,
-    "timeWeek": 158,
-    "timeMonth": 220,
+    "time": 272,
+    "timeDay": 165,
+    "timeWeek": 149,
+    "timeMonth": 215,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 7
     }
   },
   {
