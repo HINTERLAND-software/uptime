@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakenitzmauer-luebeck.de.ico",
     "slug": "wakenitzmauer-luebeck",
     "status": "down",
-    "uptime": "92.49%",
+    "uptime": "92.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.12%",
+    "uptimeYear": "75.00%",
     "time": 281,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-05-06": 14,
+      "2024-05-06": 629,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
@@ -173,9 +173,9 @@
     "url": "https://agenturgoeschen.com",
     "icon": "https://icons.duckduckgo.com/ip3/agenturgoeschen.com.ico",
     "slug": "agenturgoeschen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -184,7 +184,9 @@
     "timeWeek": 148,
     "timeMonth": 190,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "strassburg-passage",
