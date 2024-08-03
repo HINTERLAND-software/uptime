@@ -49,14 +49,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.62%",
+    "uptimeYear": "50.61%",
     "time": 275,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-08-03": 629,
+      "2024-08-03": 636,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-08-03": 629,
+      "2024-08-03": 636,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -479,19 +479,19 @@
     "url": "https://johannroehl.de",
     "icon": "https://icons.duckduckgo.com/ip3/johannroehl.de.ico",
     "slug": "linkedin-portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 1145,
-    "timeWeek": 457,
+    "timeDay": 868,
+    "timeWeek": 441,
     "timeMonth": 320,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-08-03": 0
+      "2024-08-03": 7
     }
   },
   {
