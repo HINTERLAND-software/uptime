@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2024-09-12": 576,
+      "2024-09-12": 583,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -314,7 +314,7 @@
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-09-12": 576,
+      "2024-09-12": 583,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -469,19 +469,19 @@
     "url": "https://ivm-meyer.de",
     "icon": "https://icons.duckduckgo.com/ip3/ivm-meyer.de.ico",
     "slug": "ivm-meyer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 571,
-    "timeWeek": 330,
-    "timeMonth": 294,
+    "timeDay": 508,
+    "timeWeek": 336,
+    "timeMonth": 297,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 7
     }
   },
   {
@@ -543,19 +543,19 @@
     "url": "https://hinterland.software",
     "icon": "https://icons.duckduckgo.com/ip3/hinterland.software.ico",
     "slug": "hinterland-software",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 435,
-    "timeWeek": 412,
-    "timeMonth": 585,
-    "timeYear": 477,
+    "time": 492,
+    "timeDay": 512,
+    "timeWeek": 440,
+    "timeMonth": 587,
+    "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 7
     }
   },
   {
