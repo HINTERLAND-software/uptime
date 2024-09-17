@@ -4,19 +4,19 @@
     "url": "https://giga-hamburg.de/",
     "icon": "https://icons.duckduckgo.com/ip3/giga-hamburg.de.ico",
     "slug": "giga-hamburg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 477,
-    "timeDay": 288,
-    "timeWeek": 332,
-    "timeMonth": 502,
+    "timeDay": 309,
+    "timeWeek": 333,
+    "timeMonth": 498,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2024-09-17": 0,
+      "2024-09-17": 8,
       "2023-09-29": 17
     }
   },
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-09-17": 438,
+      "2024-09-17": 446,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -320,7 +320,7 @@
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-09-17": 438,
+      "2024-09-17": 446,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -516,19 +516,19 @@
     "url": "https://vh-gruppe.de",
     "icon": "https://icons.duckduckgo.com/ip3/vh-gruppe.de.ico",
     "slug": "vh-gruppe",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 322,
-    "timeWeek": 242,
+    "timeDay": 306,
+    "timeWeek": 245,
     "timeMonth": 253,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 8
     }
   },
   {
