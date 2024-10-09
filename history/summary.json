@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-10-09": 1161,
+      "2024-10-09": 1167,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -339,7 +339,7 @@
     "timeMonth": 0,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-10-09": 1161,
+      "2024-10-09": 1167,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -503,19 +503,19 @@
     "url": "https://strassburg-passage.de",
     "icon": "https://icons.duckduckgo.com/ip3/strassburg-passage.de.ico",
     "slug": "strassburg-passage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 174,
-    "timeWeek": 229,
-    "timeMonth": 249,
-    "timeYear": 265,
+    "timeDay": 150,
+    "timeWeek": 215,
+    "timeMonth": 244,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 6
     }
   },
   {
