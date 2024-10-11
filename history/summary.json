@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-10-11": 841,
+      "2024-10-11": 850,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -311,19 +311,19 @@
     "url": "https://carlaemrich.de",
     "icon": "https://icons.duckduckgo.com/ip3/carlaemrich.de.ico",
     "slug": "carlaemrich",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 245,
-    "timeWeek": 315,
-    "timeMonth": 285,
+    "time": 292,
+    "timeDay": 248,
+    "timeWeek": 308,
+    "timeMonth": 284,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 9
     }
   },
   {
@@ -343,7 +343,7 @@
     "timeMonth": 0,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-10-11": 841,
+      "2024-10-11": 850,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
