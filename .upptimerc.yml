@@ -10,12 +10,10 @@ sites:
     url: https://giga-hamburg.de/
   - name: hansekai-apartments
     url: https://hansekai-apartments.de
-  - name: wakenitzmauer-luebeck
-    url: https://wakenitzmauer-luebeck.de
   - name: carlaemrich
     url: https://carlaemrich.de
-  - name: agenturgoeschen
-    url: https://agenturgoeschen.com
+  - name: sportsfreund-fitness
+    url: https://sportsfreund-fitness.de
   - name: strassburg-passage
     url: https://strassburg-passage.de
   - name: ivm-meyer
