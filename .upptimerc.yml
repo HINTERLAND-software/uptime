@@ -34,7 +34,6 @@ sites:
     url: http://contentful-gatsby-boilerplate.netlify.app
 
 status-website:
-  theme: dark
   cname: uptime.hinterland.software
   logoUrl: https://hinterland.software/images/HINTERLAND-software-bw.png
   name: Uptime monitor
