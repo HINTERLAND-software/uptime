@@ -1,0 +1,32 @@
+repo_name: HINTERLAND-software/uptime
+report_id: 2f6f0ab0bd4f9723c230b1461459cb36
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:21:26+00:00'
+requested_by: upptime-bot
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/HINTERLAND-software/uptime
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/HINTERLAND-software/uptime/blob/master/.github/workflows/graphs.yml
+  detection_source: ".github/workflows/graphs.yml"
+  last_updated_by: Upptime Bot
+  last_updated_on: 2022-12-17 00:02:59.000000000 Z
