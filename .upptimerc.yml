@@ -34,9 +34,7 @@ sites:
     url: http://contentful-gatsby-boilerplate.netlify.app
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
+  theme: dark
   cname: uptime.hinterland.software
   logoUrl: https://hinterland.software/images/HINTERLAND-software-bw.png
   name: Uptime monitor
@@ -49,5 +47,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: HINTERLAND software
       href: https://hinterland.software/
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
