@@ -1,0 +1,51 @@
+# Change these first
+owner: hinterland-software # Your GitHub username
+repo: uptime # Your GitHub repository name
+assignees:
+  - jroehl
+
+# Add your sites here
+sites:
+  - name: giga-hamburg
+    url: https://giga-hamburg.de/
+  - name: hansekai-apartments
+    url: https://hansekai-apartments.de
+  - name: carlaemrich
+    url: https://carlaemrich.de
+  - name: sportsfreund-fitness
+    url: https://sportsfreund-fitness.de
+  - name: strassburg-passage
+    url: https://strassburg-passage.de
+  - name: ivm-meyer
+    url: https://ivm-meyer.de
+  - name: heidpartner
+    url: https://heidpartner.de
+  - name: vh-gruppe
+    url: https://vh-gruppe.de
+  - name: five-minutes
+    url: https://five-minutes.app
+  - name: hinterland-software
+    url: https://hinterland.software
+  - name: linkedin-portfolio
+    url: https://johannroehl.de
+  - name: cv-gen
+    url: https://cv.johannroehl.de
+  - name: contentful-gatsby-boilerplate
+    url: http://contentful-gatsby-boilerplate.netlify.app
+
+status-website:
+  cname: uptime.hinterland.software
+  logoUrl: https://hinterland.software/images/HINTERLAND-software-bw.png
+  name: Uptime monitor
+  introTitle: '**Uptime monitor**'
+  introMessage: Periodically checking pages created and run by [HINTERLAND software](https://hinterland.software/).
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    - title: HINTERLAND software
+      href: https://hinterland.software/
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
