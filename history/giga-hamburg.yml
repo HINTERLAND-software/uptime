@@ -1,7 +1,7 @@
 url: https://giga-hamburg.de/
-status: up
-code: 200
-responseTime: 1544
-lastUpdated: 2026-05-12T23:27:21.599Z
+status: down
+code: 429
+responseTime: 204
+lastUpdated: 2026-05-13T08:08:39.436Z
 startTime: 2022-03-21T05:58:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
